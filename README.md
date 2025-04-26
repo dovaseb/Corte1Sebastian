@@ -1,4 +1,4 @@
-Aplicacion Movil de Inglés para Ingenieros por Sebastian Castañeda Salazar
+ACTUALIZACIÓN LOGIN FIRECAST: Aplicacion Movil de Inglés para Ingenieros por Sebastian Castañeda Salazar
 
 Descripción General de la Aplicación
 
@@ -13,6 +13,8 @@ Personalización:
 Opciones para cambiar el tema visual de la aplicación.
 Información Adicional:
 Detalles sobre la versión de la aplicación y sus características principales.
+Inicio de sesión y Registro:
+Crear cuenta e iniciar sesión, incluido perfil.
 
 Instrucciones de instalación y ejecución
 1. Clonar el Repositorio
@@ -47,3 +49,8 @@ Imagenes de la App
 ![image](https://github.com/user-attachments/assets/466f20a2-e870-41de-8d9b-a7870b064096)
 ![image](https://github.com/user-attachments/assets/4de693b9-b2f6-4c25-a707-fda5e7b9e13a)
 ![image](https://github.com/user-attachments/assets/b2c341e8-9b3b-44a1-b50d-f46236e076a2)
+![image](https://github.com/user-attachments/assets/723c39ad-636c-48a3-b899-de61889885a3)
+![image](https://github.com/user-attachments/assets/f046bf89-0db3-4845-8e89-6210d1dff7b3)
+![image](https://github.com/user-attachments/assets/b751e86e-2223-4d1c-8e46-421983559577)
+![image](https://github.com/user-attachments/assets/0f8fa9d3-3752-4d94-abaa-e5e545a1560c)
+
